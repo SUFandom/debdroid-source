@@ -9,4 +9,4 @@ This is Debdroid/Debian 11 Source Code, some files on `/dev/` couldn't be added 
 
 You are free to modify this kernel-less OS at your basis by forking it
 
-Although i suggest to build this and including the `/dev` componets and remove `.vscode` folder along the way if you want (32Bit ARM only.) (There's No Raw (C++/C source here))
+Although i suggest to build this and including the `/dev` componets and remove `.vscode` folder along the way if you want (32Bit ARM only.)
