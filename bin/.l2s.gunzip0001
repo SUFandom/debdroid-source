@@ -1,0 +1,6 @@
+#!/bin/sh
+# Uncompress files.  This is the inverse of gzip.
+
+# Copyright (C) 2007, 2010-2018 Free Software Foundation, Inc.
+
+# This program

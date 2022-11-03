@@ -1,0 +1,268 @@
+Package: libpolkit-agent-1-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: udev
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libsecret-1-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libext2fs2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: readline-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgcr-base-3-1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libblockdev-part2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: systemd-timesyncd
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libblockdev-swap2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpam-systemd
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ucf
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libbluray2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libexpat1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libblockdev-fs2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libip4tc2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libfreetype6
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpopt0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libapparmor1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libatasmart4
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libdbus-1-3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gvfs-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libxml2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gvfs-libs
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libdconf1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libfontconfig1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: systemd
+Architecture: armhf
+Auto-Installed: 1
+
+Package: fdisk
+Architecture: armhf
+Auto-Installed: 1
+
+Package: desktop-file-utils
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpng16-16
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libreadline8
+Architecture: armhf
+Auto-Installed: 1
+
+Package: sensible-utils
+Architecture: armhf
+Auto-Installed: 1
+
+Package: fontconfig-config
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libfdisk1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gdisk
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgudev-1.0-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: lsof
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libcap2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libudfread0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libudisks2-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libblockdev-loop2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libblockdev2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libblockdev-part-err2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gsettings-desktop-schemas
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libblockdev-utils2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpolkit-gobject-1-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: dmsetup
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libjson-c5
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libcryptsetup12
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libglib2.0-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libbrotli1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: dconf-gsettings-backend
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libparted-fs-resize0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libkmod2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: parted
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libsecret-common
+Architecture: armhf
+Auto-Installed: 1
+
+Package: fonts-dejavu-core
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libargon2-1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: logsave
+Architecture: armhf
+Auto-Installed: 1
+
+Package: dconf-service
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libncursesw6
+Architecture: armhf
+Auto-Installed: 1
+
+Package: dbus
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgck-1-0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libicu67
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libdevmapper1.02.1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libss2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libparted2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: openssl
+Architecture: armhf
+Auto-Installed: 1
+
